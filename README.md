@@ -21,7 +21,7 @@ Extracts browser-stored data such as refresh tokens, cookies, saved credentials,
 
 ## How Does It Work
 
-This project is an improved version of [DumpChromeSecrets](https://github.com/Maldev-Academy/DumpChromeSecrets), new development by [nu11secur1ty](https://www.nu11secur1ty.com/) - soon and similarly consists of two components:
+This project is an improved version of [DumpChromeSecrets](https://github.com/Maldev-Academy/DumpChromeSecrets), new development by [nu11secur1ty](https://www.nu11secur1ty.com/) - soon. Similarly consists of two components:
 
 1. **Executable (`DumpBrowserSecrets.exe`)**
 
